@@ -1,0 +1,7 @@
+    GET all notes: http://localhost:3000/api/notes
+    GET a specific note: http://localhost:3000/api/notes/:id
+    POST a new note: http://localhost:3000/api/notes (with JSON body containing title and content)
+    PUT/update a note: http://localhost:3000/api/notes/:id (with JSON body containing title and content)
+    DELETE a note: http://localhost:3000/api/notes/:id
+     
+    To test -> Run "npm test"
